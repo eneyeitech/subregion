@@ -1,0 +1,37 @@
+{
+  "name": "subregion",
+  "version": "1.0.1",
+  "description": "This is an npm project that provides city, state, town or any sub entity information.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-simple-firewall": "1.0.x",
+    "express-simple-router": "0.0.x",
+    "json-api": "^3.0.0-rc.6.0.1",
+    "mongoose": "4.8.x",
+    "path-to-regexp": "0.1.2",
+    "pluralize": "0.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eneye380/sub-region.git"
+  },
+  "keywords": [
+    "city",
+    "state",
+    "town",
+    "sub",
+    "entity"
+  ],
+  "author": "Abdulmumin Eneye Abdulkarim abdulmumineabdulkarim@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eneye380/sub-region/issues"
+  },
+  "homepage": "https://github.com/eneye380/sub-region#readme"
+}
